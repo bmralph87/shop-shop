@@ -27,8 +27,8 @@ This project was created as an assignment for the PennLPS/TES Fullstack Bootcamp
 
 
 
-#### My repo can be found [Here](https://github.com/bmralph87/book-search-engine)
-#### My deployed application can be found [Here](https://safe-river-60808.herokuapp.com/)
+#### My repo can be found [Here](https://github.com/bmralph87/shop-shop)
+#### My deployed application can be found [Here](https://fathomless-meadow-72360.herokuapp.com/)
 
 
 
