@@ -24,6 +24,18 @@ This project was created as an assignment for the PennLPS/TES Fullstack Bootcamp
 ## Objective
 - Create an ecommerce shopping app that allows users to select and purchase products
 
+## Description/Usage: 
+Shop Shop is an ecommerce shopping app that allows a user to signup/login, browse a variety of products, add said product(s) to cart while also having the capability to remove item(s) from cart and checkout using Stripe functionality.
+
+
+## Approach
+MERN Stack refactored with Redux
+
+## Final Statements/ Conclusion
+- Successfully installed Reduxjs/toolkit and React-Redux 
+- Refactored previous React based code by adding a store directory and modifying the components by importing useDispatch and useSelector  
+- Employed Heroku console to solve deployment errors
+
 
 
 #### My repo can be found [Here](https://github.com/bmralph87/shop-shop)
