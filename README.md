@@ -5,7 +5,7 @@
 This project was created as an assignment for the PennLPS/TES Fullstack Bootcamp.
 
 
-## Tools used for this project
+## Technologies used 
 - JavaScript
 - Node.js
 - Express
@@ -19,7 +19,7 @@ This project was created as an assignment for the PennLPS/TES Fullstack Bootcamp
 - Heroku
 - MongoDB Atlas
 
-![Redux](https://img.shields.io/badge/-Redux-brightgreen) !
+![Redux](https://img.shields.io/badge/-Redux-brightgreen) 
 
 
 ## Objective
