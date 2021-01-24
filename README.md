@@ -7,17 +7,6 @@ This project was created as an assignment for the PennLPS/TES Fullstack Bootcamp
 
 ## Technologies used 
 
-
-
-
-
-
-
-- Heroku
-- MongoDB Atlas
-
-
-
 ![HTML5](https://img.shields.io/badge/-HTML5-yellow) ![CSS](https://img.shields.io/badge/-CSS-orange)![JavaScript](https://img.shields.io/badge/-Javascript-blue) ![Node.js](https://img.shields.io/badge/-Node.js-yellow) ![Express](https://img.shields.io/badge/-Express-lightgrey) ![Mongoose](https://img.shields.io/badge/-Mongoose-orange) ![bcrypt](https://img.shields.io/badge/-bcrypt-red) ![Nodemon](https://img.shields.io/badge/-Nodemon-blue) ![JSON Web Token](https://img.shields.io/badge/-JSON%20Web%20Token-blue) ![GraphQL](https://img.shields.io/badge/-GraphQL-lightgrey)![Apollo](https://img.shields.io/badge/-Apollo-brightgreen)![React](https://img.shields.io/badge/-React-red) ![Redux](https://img.shields.io/badge/-Redux-brightgreen) 
 
 
