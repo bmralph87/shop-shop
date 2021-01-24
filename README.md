@@ -1,7 +1,5 @@
 # Shop-Shop
 
-# MODULE 22: State
-
 <img src= "Shop-Shop S shot.jpg">
 
 This project was created as an assignment for the PennLPS/TES Fullstack Bootcamp.
@@ -20,6 +18,7 @@ This project was created as an assignment for the PennLPS/TES Fullstack Bootcamp
 - Apollo Server
 - Heroku
 - MongoDB Atlas
+- Redux
 
 
 ## Objective
