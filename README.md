@@ -23,10 +23,10 @@ This project was created as an assignment for the PennLPS/TES Fullstack Bootcamp
 
 
 ## Objective
-- Create an ecommerce shopping app that allows users to select and purchase products
+- Create an e-commerce shopping app that allows users to select and purchase products
 
 ## Description/Usage: 
-Shop Shop is an ecommerce shopping app that allows a user to signup/login, browse a variety of products, add said product(s) to cart while also having the capability to remove item(s) from cart and checkout using Stripe functionality.
+Shop Shop is an e-commerce shopping app that allows a user to signup/login, browse a variety of products, add said product(s) to cart while also having the capability to remove item(s) from cart and checkout using Stripe functionality.
 
 
 ## Approach
