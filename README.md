@@ -18,8 +18,7 @@ This project was created as an assignment for the PennLPS/TES Fullstack Bootcamp
 - Apollo Server
 - Heroku
 - MongoDB Atlas
-- Redux
-(https://img.shields.io/badge/-Redux-brightgreen)
+- [Redux](https://img.shields.io/badge/-Redux-brightgreen)
 
 
 ## Objective
