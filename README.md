@@ -34,8 +34,11 @@ MERN Stack refactored with Redux
 ## Sites used for Knowledge:
 
 [Intro to Redux](https://redux.js.org/introduction/getting-started)
+
 [React-Redux Hooks](https://react-redux.js.org/api/hooks)
+
 [Failed to Parse Source Map Error](https://stackoverflow.com/questions/36051891/esri-failed-to-parse-source-map)
+
 [Heroku Deployment Error](https://f-a.nz/dev/update-deploy-to-heroku-app/)
 
 
